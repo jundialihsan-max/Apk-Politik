@@ -1,0 +1,6 @@
+{
+  "name": "Akademi Politik 200 Bab - Jundi Abdul Syahid, S.Pd.",
+  "description": "Aplikasi Rancangan Akademi Politik 200 Bab berfokus pada politik organisasi etis, seni negosiasi, diplomasi, kepemimpinan berakar falsafah Jawa, dan politik pendidikan nasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
